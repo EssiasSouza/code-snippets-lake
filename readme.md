@@ -3,7 +3,7 @@
 Here is my lake of code snippets to help me whe I'm coding. There is Python, Bash and more languages code lines. Some lines was write by myself and some writed by AI or at least AI based. Let's enjoy.
 
 ## PYTHON
-### Trying to close popup window with SELENIUM.
+### List text cleaner and remove special characters
 
 `````
 import unicodedata
